@@ -61,12 +61,14 @@ Estas competências são fundamentais para:
 
 ## 📈 Trajetória de Aprendizado Completa
 Esta atividade representa o **ápice da jornada Python**, demonstrando:
-- ✅ **Fundamentos** (Atividade 2)
-- ✅ **Aplicações práticas** (Atividade 3) 
-- ✅ **Lógica e validações** (Atividade 4)
-- ✅ **Manipulação avançada** (Atividade 5)
-- ✅ **Integração e APIs** (Atividade 6)
-- ✅ **Análise de dados** (Atividade 1)
+
+### 🎯 **Evolução Técnica Progressiva**
+- ✅ **Fundamentos Essenciais** (Atividade 1)
+- ✅ **Aplicações Práticas** (Atividade 2) 
+- ✅ **Projetos Intermediários** (Atividade 3)
+- ✅ **Lógica e Validações** (Atividade 4)
+- ✅ **Manipulação Avançada** (Atividade 5)
+- ✅ **Integração com APIs** (Atividade 6)
 
 ## 👩‍💻 Autora
 **Verônica Bergelino**  
